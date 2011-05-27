@@ -26,6 +26,7 @@
 # No primeiro andar, precisamos de 3, e no segundo (topo) apenas 1.
 # A saída deve ser a soma, que é: 10 cabeças.
 #
+# (Problema modificado da OPI 2011 - Categoria Avançado)
 #
 # Status: Resolvido
 
