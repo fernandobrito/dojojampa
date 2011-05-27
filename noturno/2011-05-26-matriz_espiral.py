@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # 2ª Sessão DojoJampa Noturno - 26 de maio de 2011
 # http://dojojampa.posterous.com
 #
