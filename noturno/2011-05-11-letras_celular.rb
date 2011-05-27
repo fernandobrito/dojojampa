@@ -1,4 +1,4 @@
-# Primeiro DojoJampa Noturno - 11 de maio de 2011
+# 1ª Sessão DojoJampa Noturno - 11 de maio de 2011
 # http://dojojampa.posterous.com
 #
 # Problema: http://dojopuzzles.com/problemas/exibe/encontre-o-telefone/ 
